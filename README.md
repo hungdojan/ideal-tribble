@@ -17,6 +17,7 @@ ADD <var> <symb1> <symb2>
 <var> Proměnná ve tvaru:
     prefix:     vvvv@
     hodnota:    vsechny alfanumericke znaky a podtrzitko
+                    prvni znak nesmi byt cislo
 
 <symb> Proměnná nebo konstanta
     prefix konstanty: float@
