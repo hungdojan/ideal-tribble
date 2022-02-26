@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<program language="MyLanguage">
+  <instruction order="1" opcode="DEFVAR">
+    <arg1 type="var">var1</arg1>
+  </instruction>
+  <instruction order="2" opcode="WRITE">
+    <arg1 type="var">var3_</arg1>
+  </instruction>
+  <instruction order="3" opcode="ADD">
+    <arg1 type="var">___</arg1>
+    <arg2 type="float">0.0</arg2>
+    <arg3 type="var">v_4</arg3>
+  </instruction>
+  <instruction order="4" opcode="MOVE">
+    <arg1 type="var">gg</arg1>
+    <arg2 type="float">567.982</arg2>
+  </instruction>
+</program>
