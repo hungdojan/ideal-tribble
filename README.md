@@ -6,7 +6,7 @@ DEFVAR <var>
     definuje proměnnou, hodnota by default=0.0
 MOVE <var> <symb>
     přemístí hodnotu <symb> do <var>
-WRITE <var> <symb>
+WRITE <var>
     vypíše na stdout hodnotu uloženou v proměnné <var>
 ADD <var> <symb1> <symb2>
     uloží do proměnné <var> součet hodnot <symb1> a <symb2>
