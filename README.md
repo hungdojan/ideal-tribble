@@ -29,3 +29,4 @@ ADD <var> <symb1> <symb2>
 - 20 - neznamý příkaz
 - 21 - lexikální nebo syntaktická chyba
 - 23 - nedefinovaná proměnná
+- 24 - znovu definování již definované proměnné
